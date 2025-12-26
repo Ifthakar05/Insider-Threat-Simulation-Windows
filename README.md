@@ -98,7 +98,7 @@ Full SOC-style report available in `/report` folder.
 
 ##  Author
 **Ifthakar Ahammad**  
-B.Sc. in Cybersecurity  
+B.Sc. in Information Security 
 Aspiring SOC Analyst 
 
 ## Screenshots & Evidence
