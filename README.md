@@ -111,4 +111,40 @@ Evidence includes:
 - Enabled Windows File System Auditing policy
 - Security Event ID 4663 showing unauthorized file access attempts
 
+- ---
+
+### HR User (Standard Account)
+This screenshot shows the HR user configured as a standard (non-admin) account.
+
+![HR User Standard Account](screenshots/Hr user standard account.jpeg)
+
+---
+
+### NTFS Permissions (Admin Only)
+Sensitive_Data folder permissions are restricted to Administrators only.
+
+![NTFS Admin Only](screenshots/NTFS permission admin only.jpeg)
+
+---
+
+### File System Auditing Enabled
+Object access auditing enabled for file system monitoring.
+
+![AuditPol Enabled](screenshots/Auditpol file system enabled.jpeg)
+
+---
+
+###  Unauthorized Access Attempt (Access Denied)
+HR user attempted to access the sensitive folder and was denied.
+
+![Access Denied](screenshots/Access denied message.jpeg)
+
+---
+
+### Security Event Logged (Event ID 4663)
+Windows Security Event 4663 captured for the unauthorized access attempt.
+
+![Event 4663](screenshots/event_4663_object_access.jpeg)
+
+
 
