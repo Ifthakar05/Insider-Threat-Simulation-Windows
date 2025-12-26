@@ -101,3 +101,14 @@ Full SOC-style report available in `/report` folder.
 B.Sc. in Cybersecurity  
 Aspiring SOC Analyst 
 
+## Screenshots & Evidence
+
+All security-related screenshots collected during the simulation are stored in the 
+[screenshots](./screenshots) directory.
+
+Evidence includes:
+- NTFS permission restrictions applied to sensitive folders
+- Enabled Windows File System Auditing policy
+- Security Event ID 4663 showing unauthorized file access attempts
+
+
